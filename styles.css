@@ -143,10 +143,3 @@ body {
     display: initial;
   }
 }
-
-.pum {
-  background-color: red;
-  display: inline-block;
-  height: 20px;
-  width: 50%;
-}
